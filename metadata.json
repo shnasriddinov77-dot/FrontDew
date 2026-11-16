@@ -1,0 +1,6 @@
+{
+  "name": "FrontDev - Dasturlashni o'rganish platformasi",
+  "description": "FrontDev - Apple glassmorphism uslubidagi, o'zbek tilidagi interaktiv dasturlash ta'lim platformasi. O'zbek do'ppili va choponli robot maskot, jonli kod tahrirlagich va to'lov tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
